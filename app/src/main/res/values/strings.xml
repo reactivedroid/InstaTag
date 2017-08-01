@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InstaTag</string>
+    <string name="public_posts">%s public posts</string>
+    <string name="search_hint">Search tags like urbanclap, Snow</string>
+    <string name="no_network_error">No internet connection. Please check your settings and try again.</string>
+    <string name="post_empty_text">The sandbox environment only has access to those tags which are visible in users instagram feed. \nPlease add the #%s into your feed to see the media contents.</string>
+</resources>
